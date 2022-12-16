@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/https//sukhchain77.github.io/reactapp/static/css/main.9a404818.css",
+    "main.js": "/https//sukhchain77.github.io/reactapp/static/js/main.3292d0d7.js",
+    "static/js/787.1ed0c42c.chunk.js": "/https//sukhchain77.github.io/reactapp/static/js/787.1ed0c42c.chunk.js",
+    "static/media/myimage.png": "/https//sukhchain77.github.io/reactapp/static/media/myimage.f06e898d6d86289d0211.png",
+    "static/media/blog.png": "/https//sukhchain77.github.io/reactapp/static/media/blog.fb8ab7f271a937d5fc01.png",
+    "static/media/about.png": "/https//sukhchain77.github.io/reactapp/static/media/about.aee0f771fbfc1e7b8fa8.png",
+    "static/media/myresumemasai.pdf": "/https//sukhchain77.github.io/reactapp/static/media/myresumemasai.2e6c5d67c3b3788b6122.pdf",
+    "static/media/home-bg.jpg": "/https//sukhchain77.github.io/reactapp/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
+    "static/media/bluemercury.png": "/https//sukhchain77.github.io/reactapp/static/media/bluemercury.fb4da6e31c98c1ff01cc.png",
+    "static/media/avatar.svg": "/https//sukhchain77.github.io/reactapp/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/pre.svg": "/https//sukhchain77.github.io/reactapp/static/media/pre.4410c5baaa673cc131da.svg",
+    "index.html": "/https//sukhchain77.github.io/reactapp/index.html",
+    "main.9a404818.css.map": "/https//sukhchain77.github.io/reactapp/static/css/main.9a404818.css.map",
+    "main.3292d0d7.js.map": "/https//sukhchain77.github.io/reactapp/static/js/main.3292d0d7.js.map",
+    "787.1ed0c42c.chunk.js.map": "/https//sukhchain77.github.io/reactapp/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a404818.css",
+    "static/js/main.3292d0d7.js"
+  ]
+}
