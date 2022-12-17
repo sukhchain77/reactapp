@@ -1,23 +1,23 @@
 {
   "files": {
     "main.css": "/reactapp/static/css/main.19be902d.css",
-    "main.js": "/reactapp/static/js/main.f80fd05d.js",
+    "main.js": "/reactapp/static/js/main.0dc947aa.js",
     "static/js/787.1ed0c42c.chunk.js": "/reactapp/static/js/787.1ed0c42c.chunk.js",
     "static/media/myimage.png": "/reactapp/static/media/myimage.f06e898d6d86289d0211.png",
-    "static/media/blog.png": "/reactapp/static/media/blog.fb8ab7f271a937d5fc01.png",
     "static/media/about.png": "/reactapp/static/media/about.aee0f771fbfc1e7b8fa8.png",
     "static/media/myresumemasai.pdf": "/reactapp/static/media/myresumemasai.2e6c5d67c3b3788b6122.pdf",
     "static/media/home-bg.jpg": "/reactapp/static/media/home-bg.dc52d5d40a40b13154b0.jpg",
     "static/media/bluemercury.png": "/reactapp/static/media/bluemercury.fb4da6e31c98c1ff01cc.png",
     "static/media/avatar.svg": "/reactapp/static/media/avatar.7f806e40d46fc76fbc3c4a3d71349951.svg",
+    "static/media/firstcry.png": "/reactapp/static/media/firstcry.1e9f67c4d63f384b6905.png",
     "static/media/pre.svg": "/reactapp/static/media/pre.4410c5baaa673cc131da.svg",
     "index.html": "/reactapp/index.html",
     "main.19be902d.css.map": "/reactapp/static/css/main.19be902d.css.map",
-    "main.f80fd05d.js.map": "/reactapp/static/js/main.f80fd05d.js.map",
+    "main.0dc947aa.js.map": "/reactapp/static/js/main.0dc947aa.js.map",
     "787.1ed0c42c.chunk.js.map": "/reactapp/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.19be902d.css",
-    "static/js/main.f80fd05d.js"
+    "static/js/main.0dc947aa.js"
   ]
 }
