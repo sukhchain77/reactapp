@@ -7,7 +7,7 @@ import Particle from "../Particle";
 // import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/bluemercury.png";
 // import suicide from "../../Assets/Projects/suicide.png";
-import bitsOfCode from "../../Assets/Projects/blog.png";
+import bitsOfCode from "../../Assets/Projects/firstcry.png";
 
 function Projects() {
   return (
