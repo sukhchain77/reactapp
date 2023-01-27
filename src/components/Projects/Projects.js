@@ -40,12 +40,25 @@ function Projects() {
               title="FirstCry"
               description="FirstCry.com - Asia's Largest Online Baby and Kids Store, is India's largest online shop for
                new mom and baby products, offering top of the line discounts."
-              ghLink="adityarajbenn/firstCry"
+              ghLink="https://github.com/adityarajbenn/firstCry"
               demoLink="https://firstcry-clone.netlify.app/"
             />
           </Col>
   
         </Row>
+        <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
+          <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={chatify}
+              isBlog={false}
+              title="Royal Brothers"
+              description=" Our goal with Royal Brothers is to make bike rentals available across all cities and tourist 
+              destinations in India. "
+              ghLink="https://github.com/Rajatsinha05/royalbrothers"
+              demoLink="https://royalbrothers.pages.dev/"
+            />
+          </Col>
+        </Row>  
       </Container>
     </Container>
   );
