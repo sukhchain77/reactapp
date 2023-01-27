@@ -9,7 +9,8 @@ import "react-pdf/dist/esm/Page/AnnotationLayer.css";
 pdfjs.GlobalWorkerOptions.workerSrc = `//cdnjs.cloudflare.com/ajax/libs/pdf.js/${pdfjs.version}/pdf.worker.min.js`;
 //D:\portfolio\reactapp\src\Assets\Sukhchain-Kaur.pdf
 const resumeLink =
-    "https://raw.githubusercontent.com/sukhchain77/reactapp/main/src/Assets/Sukhchain-Kaur.pdf"
+    //"https://raw.githubusercontent.com/sukhchain77/reactapp/main/src/Assets/Sukhchain-Kaur.pdf"
+    "https://raw.githubusercontent.com/sukhchain77/reactapp/main/src/Assets/myresumemasai.pdf"
     //"https://raw.githubusercontent.com/sukhchain77/sukhchain77.github.io/main/src/Assets/myresumemasai.pdf";
     //"https://github.com/sukhchain77/sukhchain77.github.io/blob/main/src/Assets/myresumemasai.pdf";
 function ResumeNew() {
