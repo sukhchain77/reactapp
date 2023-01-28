@@ -2,7 +2,7 @@ import React from "react";
 import { Container, Row, Col } from "react-bootstrap";
 import ProjectCard from "./ProjectCards";
 import Particle from "../Particle";
-// import leaf from "../../Assets/Projects/leaf.png";
+import leaf from "../../Assets/Projects/royalB.png";
 // import emotion from "../../Assets/Projects/emotion.png";
 // import editor from "../../Assets/Projects/codeEditor.png";
 import chatify from "../../Assets/Projects/bluemercury.png";
@@ -49,7 +49,7 @@ function Projects() {
         <Row style={{ justifyContent: "center", paddingBottom: "10px" }}>
           <Col md={4} className="project-card">
             <ProjectCard
-              imgPath={chatify}
+              imgPath={leaf}
               isBlog={false}
               title="Royal Brothers"
               description=" Our goal with Royal Brothers is to make bike rentals available across all cities and tourist 
